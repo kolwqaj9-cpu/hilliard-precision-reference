@@ -43,11 +43,10 @@ Preserved shop record for hilliardprecision.com. The former plant is not quoting
 
 See the full index at [hilliardprecision.com](https://hilliardprecision.com/).
 
-Service pages maintained with this archive
-================================
+## Service pages maintained with this archive
 
 The reference notes above support the production work documented on the shop's own service pages:
 
-* `Sheet Metal Bending Service — Specification Guide <https://https://hilliardprecision.com/services/sheet-metal-bending-service.html>`_ — How to specify sheet metal bending: bend radius, minimum flange, bend allowance, K-factor, bend sequence, backgauge planning, springback, and tooling choic
-* `Sheet Metal Welding — Specification Guide <https://https://hilliardprecision.com/services/sheet-metal-welding.html>`_ — How sheet metal assemblies are welded without distortion: weld sequence, heat input, fixturing, TIG versus MIG versus spot, straightening, and crack-catchi
-* `Powder Coating Service — Specification Guide <https://https://hilliardprecision.com/services/powder-coating-service.html>`_ — Specify powder coating service with defined pretreatment, thickness, cure, masking, and ASTM adhesion and impact tests for durable, non-peeling finishes.
+* **[Sheet Metal Bending Service — Specification Guide](https://hilliardprecision.com/services/sheet-metal-bending-service.html)** — How to specify sheet metal bending: bend radius, minimum flange, bend allowance, K-factor, bend sequence, backgauge planning, springback, and tooling choic
+* **[Sheet Metal Welding — Specification Guide](https://hilliardprecision.com/services/sheet-metal-welding.html)** — How sheet metal assemblies are welded without distortion: weld sequence, heat input, fixturing, TIG versus MIG versus spot, straightening, and crack-catchi
+* **[Powder Coating Service — Specification Guide](https://hilliardprecision.com/services/powder-coating-service.html)** — Specify powder coating service with defined pretreatment, thickness, cure, masking, and ASTM adhesion and impact tests for durable, non-peeling finishes.
